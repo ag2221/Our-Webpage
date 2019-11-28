@@ -7,3 +7,8 @@ h1{
 .carousel-inner {
   height:630px;
 }
+
+.card-img-top {
+  height: 420px;
+  width: 480px;
+}
