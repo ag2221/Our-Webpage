@@ -4,6 +4,7 @@ h1{
   font: Garamond;
 }
 
+
 a.btn-btn-primary{
             color: rgb(179, 0, 0);
 
@@ -13,4 +14,8 @@ a.btn-btn-primary{
 baking-btn.hover{
             font-size:1.2em;
             transition: 0.6s ease;
+}
+
+.carousel-inner {
+  height:630px;
 }
