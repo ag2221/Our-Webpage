@@ -3,3 +3,7 @@ h1{
   text-align: center;
   font: Garamond;
 }
+
+.carousel-inner {
+  height:630px;
+}
