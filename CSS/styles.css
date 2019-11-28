@@ -1,5 +1,5 @@
 h1{
-  color: red;
+  color: rgb(179, 0, 0);
   text-align: center;
   font: Gill Sans Nova;
   font-family: monospace;
@@ -7,11 +7,17 @@ h1{
   border: white;
 }
 
+h6{
+  color: black;
+  text-align: center;
+  font: Gill Sans Nova;
+  font-family: monospace;
+  font-size: 32px;
+}
 
 a.btn-btn-primary{
                   color: rgb(255, 230, 230);
                   background-color: rgb(179, 0, 0);
-
                   padding: 10px 26px;
                   border: white;
                   font-size: 22px;
@@ -31,8 +37,7 @@ a.btn-btn-primary{
   font-size: 25px;
   font; Gill Sans Nova light;
   font-family: monospace;
-}
-
+  }
 
 
 .carousel-inner {
