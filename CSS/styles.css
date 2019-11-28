@@ -11,6 +11,7 @@ h1{
 a.btn-btn-primary{
                   color: rgb(255, 230, 230);
                   background-color: rgb(179, 0, 0);
+
                   padding: 10px 26px;
                   border: white;
                   font-size: 22px;
@@ -30,7 +31,7 @@ a.btn-btn-primary{
   font-size: 25px;
   font; Gill Sans Nova light;
   font-family: monospace;
-  }
+}
 
 
 
