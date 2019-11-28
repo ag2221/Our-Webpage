@@ -8,7 +8,7 @@ h1{
 a.btn-btn-primary{
                   color: rgb(255, 230, 230);
                   background-color: rgb(179, 0, 0);
-                  border: none;
+                  border-radius: 8px;
                   font-size: 20px;
 }
 
