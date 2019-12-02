@@ -18,11 +18,19 @@ h6{
 a.btn-btn-primary{
                   color: rgb(255, 230, 230);
                   background-color: rgb(179, 0, 0);
-                  padding: 10px 26px;
-                  border: white;
-                  font-size: 22px;
+                  border-radius: 4px;
+                  padding: 16px 20px;
+                  font-size: 24px;
                   font: Gill Sans Nova;
                   text-align: center;
+                  border: white;
+}
+
+a.btn-btn-primary:hover {
+                        background-color: white;
+                        color: rgb(179, 0, 0);
+                        transition-duration: 0.4s;
+            
 }
 
 .card-text{
