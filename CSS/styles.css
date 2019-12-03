@@ -30,7 +30,7 @@ a.btn-btn-primary:hover {
                         background-color: white;
                         color: rgb(179, 0, 0);
                         transition-duration: 0.4s;
-            
+
 }
 
 .card-text{
@@ -56,3 +56,13 @@ a.btn-btn-primary:hover {
   height: 420px;
   width: 480px;
 }
+
+button.btn-btn-primary{
+                  color: rgb(255, 230, 230);
+                  background-color: rgb(179, 0, 0);
+                  border-radius: 4px;
+                  padding: 16px 20px;
+                  font-size: 24px;
+                  font: Gill Sans Nova;
+                  text-align: center;
+                  border: white;
