@@ -1,0 +1,14 @@
+h1{
+  color: rgb(179, 0, 0);
+  font: Gill Sans Nova;
+  font-family: monospace;
+  font-size: 60px;
+  border: white;
+}
+
+form{
+  color: rgb(179, 0, 0);
+  font: Gill Sans Nova;
+  font-family: monospace;
+  font-size: 22px;
+}
