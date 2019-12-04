@@ -65,3 +65,7 @@ button.btn-btn-primary{
                   text-align: center;
                   border: white;
 }
+
+ol{
+  font-size: 20px;
+}
