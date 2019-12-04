@@ -43,10 +43,9 @@ button.btn-btn-primary{
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 50px;
+  width: 70px;
   text-align: center;
-  text-decoration: none;
-  border: 15px solid white;
+  border: 8px solid white;
 }
 
 /* Add a hover effect if you want */
