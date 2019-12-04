@@ -6,9 +6,30 @@ h1{
   border: white;
 }
 
-form{
+p{
   color: rgb(179, 0, 0);
   font: Gill Sans Nova;
   font-family: monospace;
   font-size: 22px;
+}
+
+a.navbar-brand{
+              color: rgb(179, 0, 0);
+              font-size: 14px;
+}
+
+form{
+  font: Gill Sans Nova;
+  font-family: sans-serif;
+}
+
+button.btn-btn-primary{
+                  color: rgb(255, 230, 230);
+                  background-color: rgb(179, 0, 0);
+                  border-radius: 4px;
+                  padding: 8px 18px;
+                  font-size: 18px;
+                  font: Gill Sans Nova;
+                  text-align: center;
+                  border: white;
 }
