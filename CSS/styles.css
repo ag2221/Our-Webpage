@@ -69,3 +69,7 @@ button.btn-btn-primary{
 ol{
   font-size: 20px;
 }
+
+html{
+    scroll-behavior: smooth;
+}
